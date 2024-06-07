@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\controllers\\admins\\orderadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\admins\\orderadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\controllers\\admins\\productsadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\admins\\productsadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\controllers\\admins\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\admins\\useradmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\controllers\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\controllers\\login\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\handlers\\admin\\query\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\handlers\\admin\\query\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|c:\\users\\ahmed\\desktop\\git\\e-commerce-asp-api\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36ADC8F-1BEA-41C4-9FB8-57AC58D053BC}|EcommerceApi\\EcommerceApi.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\OrderAdminController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\Controllers\\admins\\OrderAdminController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\OrderAdminController.cs",
+              "RelativeToolTip": "EcommerceApi\\Controllers\\admins\\OrderAdminController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:41:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\ProductsAdminController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\Controllers\\admins\\ProductsAdminController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\ProductsAdminController.cs",
+              "RelativeToolTip": "EcommerceApi\\Controllers\\admins\\ProductsAdminController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:41:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\userAdminController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\Controllers\\admins\\userAdminController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\admins\\userAdminController.cs",
+              "RelativeToolTip": "EcommerceApi\\Controllers\\admins\\userAdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:40:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\Login\\LoginController.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\Controllers\\Login\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Controllers\\Login\\LoginController.cs",
+              "RelativeToolTip": "EcommerceApi\\Controllers\\Login\\LoginController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:19:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\Program.cs",
+              "RelativeToolTip": "EcommerceApi\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:28:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\handlers\\admin\\query\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\handlers\\admin\\query\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\handlers\\admin\\query\\LoginCommandHandler.cs",
+              "RelativeToolTip": "EcommerceApi\\handlers\\admin\\query\\LoginCommandHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswBkAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:21:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\query\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "EcommerceApi\\query\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\GIT\\E-commerce-Asp-Api\\EcommerceApi\\EcommerceApi\\query\\LoginQuery.cs",
+              "RelativeToolTip": "EcommerceApi\\query\\LoginQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:20:12.512Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -9,10 +9,7 @@ namespace EcommerceApi.model.dbModel
         public DbSet<personModel> Persons{ get; set; }
         public DbSet<productModel> Products { get; set; }
         public DbContext_ (DbContextOptions<DbContext_> options):base(options) { }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-          
-        }
+
     }
 
 }

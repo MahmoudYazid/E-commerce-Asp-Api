@@ -59,6 +59,10 @@ namespace EcommerceApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("phone")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

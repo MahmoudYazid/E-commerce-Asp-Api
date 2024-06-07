@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
       <PrivateAssets>all</PrivateAssets>
@@ -23,10 +24,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\admins\" />
-    <Folder Include="handlers\admin\" />
-    <Folder Include="handlers\admin\command\" />
-    <Folder Include="handlers\admin\query\" />
+    <Folder Include="Controllers\user\" />
+    <Folder Include="handlers\user\command\" />
+    <Folder Include="handlers\user\query\" />
+    <Folder Include="uploadedPhoto\" />
   </ItemGroup>
 
 </Project>
